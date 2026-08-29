@@ -3,9 +3,9 @@
 Project Structure
 ```
 .
-├── data/
-│   ├── a/
-│   └── b/
+├── data/                             # not on github
+│   ├── frangieh/ 
+│   └── ReactomePathways.gmt.zip/
 └── notebooks/
     ├── Analysis.ipynb
     ├── Clustering.ipynb
